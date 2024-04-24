@@ -15,5 +15,5 @@ function alwaysChecked() {
     const nRand = Math.floor((Math.random() * 9) + 1) * -1
     document.getElementById("answer").innerHTML = "Your number is: " + nRand
   }
-  // Ouput the answer to the user in the class "answer"
+  // Output the answer to the user in the class "answer"
 }
